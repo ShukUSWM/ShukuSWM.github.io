@@ -6,7 +6,7 @@ const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
     question.innerHTML = "I Love You so much mama ko mwehehee!!!";
-    gif.src = "https://tenor.com/view/kurumin-chan-arigatou-thanks-thank-you-gif-11056320";
+    gif.src = "kuromi.gif";
 });
 
 noBtn.addEventListener("mouseover", () => {
